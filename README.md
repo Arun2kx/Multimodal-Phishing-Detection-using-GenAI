@@ -1,4 +1,4 @@
-# Multimodal Phishing Detection using Gen-AI
+## Multimodal Phishing Detection using Gen-AI
 
 This project identifies phishing websites using **multimodal data** — both **HTML text** and **image text (OCR)**.  
 Modern phishing websites use advanced techniques like deceptive UI, screenshots, and hidden text inside images.  
