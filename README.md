@@ -58,9 +58,9 @@ This helps detect even **very realistic phishing pages**.
 ```
 multimodal-phishing-detection/
 │
-├── part1_html_downloader.py
-├── part2_image_scraper.py
-├── part3_feature_extractor_and_trainer.py
+├── html_downloader.py
+├── image_scraper.py
+├── feature_extractor_and_trainer.py
 │
 ├── Alloutputs/         # HTML files saved here
 ├── images/             # Extracted images saved here
