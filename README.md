@@ -105,17 +105,17 @@ Each URL contains:
 
 ### ▶️ **Step 1: Download HTML**
 ```
-python part1_html_downloader.py
+python html_downloader.py
 ```
 
 ### ▶️ **Step 2: Extract Images**
 ```
-python part2_image_scraper.py
+python image_scraper.py
 ```
 
 ### ▶️ **Step 3: Train Model**
 ```
-python part3_feature_extractor_and_trainer.py
+python feature_extractor_and_trainer.py
 ```
 
 ---
